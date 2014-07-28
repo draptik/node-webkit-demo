@@ -1,6 +1,9 @@
 # Node
 node_modules
 
+# Bower
+app/bower-components
+
 # Build targets
 dist
 dist-pkg

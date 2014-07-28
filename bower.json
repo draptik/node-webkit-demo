@@ -1,0 +1,13 @@
+{
+  "name": "node-webkit-base-app",
+  "version": "0.0.1",
+  "homepage": "https://github.com/draptik/node-webkit-demo",
+  "authors": [
+    "Patrick Drechsler <socialcoding@pdrechsler.de>"
+  ],
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "3.2.0"
+  }
+}
